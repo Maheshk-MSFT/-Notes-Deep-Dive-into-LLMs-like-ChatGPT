@@ -95,6 +95,7 @@ References:
 
 ![image](https://github.com/user-attachments/assets/1f0d4fb7-c579-4e16-bd05-1f7cf632c635)
 
+```
 **Chapters**
 00:00:00 introduction
 00:01:00 pretraining data (internet)
@@ -120,8 +121,9 @@ References:
 03:15:15 keeping track of LLMs
 03:18:34 where to find LLMs
 03:21:46 grand summary
+```
 
-
+```
 Links
 ChatGPT https://chatgpt.com/
 FineWeb (pretraining dataset): https://huggingface.co/spaces/Hugging...
@@ -140,3 +142,4 @@ LM Arena for model rankings: https://lmarena.ai/
 AI News Newsletter: https://buttondown.com/ainews
 LMStudio for local inference https://lmstudio.ai/
 
+```
