@@ -1,4 +1,4 @@
-# -Notes-Deep-Dive-into-LLMs-like-ChatGPT
+# MyNotes-Deep-Dive-into-LLMs-like-ChatGPT
 Self reference - Deep Dive into LLMs like ChatGPT - Andrej video https://www.youtube.com/watch?v=7xTGNNLPyMI
 
   ![image](https://github.com/user-attachments/assets/f3a1a429-b8a6-46e1-8fee-d22efda57202)
